@@ -1,0 +1,3 @@
+- WEBHOOK que recebe os dados do pedido
+- ENDPOINT consulta de pedido
+- TRIGGER que processa o pedido
